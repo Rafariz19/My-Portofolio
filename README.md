@@ -24,7 +24,6 @@ Saya adalah Mahasiswa Teknik Informatika semester 1 di Politeknik Elektronika Ne
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
 </head>
 <body>
 1. Proyek Situs Nonton Anime
