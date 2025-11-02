@@ -29,7 +29,7 @@ Saya adalah Mahasiswa Teknik Informatika semester 1 di Politeknik Elektronika Ne
 1. Proyek Situs Nonton Anime
     <div style="display: flex; gap: 10px;">
   <div>
-    <img src="Situs.png" width="100%">
+    <img src="situs.png" width="100%">
   </div>
   <div>
     <img src="situs11.png" width="100%">
